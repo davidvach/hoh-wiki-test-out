@@ -1,0 +1,12 @@
+1:HL["/_next/static/css/a0e6ae4b63c6342f.css","style",{"crossOrigin":""}]
+0:["wN-dbAIzt2zywq88wA29G",[[["",{"children":["allied-cultures",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a0e6ae4b63c6342f.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
+4:HL["/_next/static/css/7d0f9bb305a3c89f.css","style",{"crossOrigin":""}]
+5:I[9724,["897","static/chunks/32ac8672-d0f5b9a157bf72be.js","461","static/chunks/17a9af85-73b8944df3f218e9.js","176","static/chunks/176-68e7935f3b1c53df.js","983","static/chunks/983-f1f83bc141efd683.js","238","static/chunks/238-762f1aa40da512b5.js","566","static/chunks/566-641700226752ac22.js","185","static/chunks/app/layout-04bbc385bd729b37.js"],""]
+6:I[6954,[],""]
+7:I[7264,[],""]
+8:I[2954,["176","static/chunks/176-68e7935f3b1c53df.js","160","static/chunks/app/not-found-b58b228c6a2f1757.js"],""]
+a:I[8297,[],""]
+b:I[8305,["176","static/chunks/176-68e7935f3b1c53df.js","983","static/chunks/983-f1f83bc141efd683.js","7","static/chunks/7-5d9be147dec48640.js","566","static/chunks/566-641700226752ac22.js","503","static/chunks/503-73c382a8ddb0937b.js","887","static/chunks/app/allied-cultures/page-848d0c34a3e5168b.js"],""]
+2:[null,["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":["$","$L8",null,{}],"notFoundStyles":[],"childProp":{"current":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children","allied-cultures","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9",["$","$La",null,{"propsForComponent":{"params":{}},"Component":"$b","isStaticGeneration":true}],null],"segment":"__PAGE__"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7d0f9bb305a3c89f.css","precedence":"next","crossOrigin":""}]]}],"segment":"allied-cultures"},"styles":[]}],"params":{}}],null]
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"32x32"}]]
+9:null
